@@ -1,4 +1,2 @@
-# ts-backend
-# api-aubg
-# api-aubg
-# backend
+backend skelet MVC pattern trqbva da dobavim swigger.io 
+
